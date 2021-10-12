@@ -7,6 +7,7 @@
 - can make simple calculations.
 - data recovery is possible.
 - multiple access to data is possible.
+
 **What are the disadvantages of using a DBMS (and Postgres in particular) compared to a spreadsheet (MS Excel in particular) ?**
 - Database Management System software installation and maintenance costs are higher.
 - Simple data editing and selection operations are more difficult than Spreadsheet.
